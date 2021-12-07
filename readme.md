@@ -2,4 +2,8 @@ This is an open beta test of some of our internal tooling that we are bringing t
 
 Create an issue describing your problem, I'll post the solution on the issue. Simple. 
 
-Bonus points if it's a user story that accurately details some functionality you are trying to accomplish. 
+Bonus points if it's a user story that accurately details some functionality you are trying to accomplish.
+
+A bit about our vision: 
+![image](https://user-images.githubusercontent.com/3770257/145118544-d261398d-14a5-41b1-8708-8808dab0ef8c.png)
+
